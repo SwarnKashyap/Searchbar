@@ -1,0 +1,17 @@
+* {
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+}
+
+.search-container {
+  padding-top: 20vh;
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 200px;
+}
+
